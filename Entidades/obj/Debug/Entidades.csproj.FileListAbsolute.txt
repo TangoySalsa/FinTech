@@ -1,0 +1,14 @@
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\bin\Debug\Entidades.exe
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\obj\Debug\Entidades.exe
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\bin\Debug\Entidades.exe
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\obj\Debug\Entidades.exe
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\Entidades\obj\Debug\Entidades.pdb

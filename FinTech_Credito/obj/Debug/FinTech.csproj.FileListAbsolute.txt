@@ -1,0 +1,181 @@
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\csc.exe
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\vbc.exe
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Dashboard_Bajas_Carrier.dll.config
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Dashboard_Bajas_Carrier.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Dashboard_Bajas_Carrier.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\AjaxControlToolkit.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Antlr3.Runtime.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Entidades.exe
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\EntityFramework.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\EntityFramework.SqlServer.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Logica.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Newtonsoft.Json.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Owin.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\System.Web.Optimization.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\System.Web.Providers.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\WebGrease.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\log4net.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\BaseDatos.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Entidades.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Logica.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\System.Web.Optimization.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Antlr3.Runtime.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Newtonsoft.Json.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\EntityFramework.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\EntityFramework.SqlServer.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\System.Web.Providers.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\log4net.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\BaseDatos.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\EntityFramework.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\obj\Debug\FinTech.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\obj\Debug\Dashboard_Bajas_Carrier.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\obj\Debug\Dashboard_Bajas_Carrier.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\csc.exe
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\vbc.exe
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Dashboard_Bajas_Carrier.dll.config
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Dashboard_Bajas_Carrier.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Dashboard_Bajas_Carrier.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\AjaxControlToolkit.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Antlr3.Runtime.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Entidades.exe
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\EntityFramework.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\EntityFramework.SqlServer.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Logica.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Newtonsoft.Json.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Owin.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\System.Web.Optimization.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\System.Web.Providers.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\WebGrease.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\log4net.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\BaseDatos.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Entidades.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Logica.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\System.Web.Optimization.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Antlr3.Runtime.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Newtonsoft.Json.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\EntityFramework.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\EntityFramework.SqlServer.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\System.Web.Providers.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\log4net.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\BaseDatos.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\EntityFramework.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\obj\Debug\FinTech.csprojResolveAssemblyReference.cache
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\obj\Debug\Dashboard_Bajas_Carrier.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\FinTech_Credito\obj\Debug\Dashboard_Bajas_Carrier.pdb

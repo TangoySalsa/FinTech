@@ -1,0 +1,28 @@
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Entidades.exe
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\log4net.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Entidades.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\log4net.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.Querys.resources
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.csproj.GenerateResource.Cache
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\Alfredo 2fun2me\Documents\Visual Studio 2015\Projects\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Entidades.exe
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\log4net.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Entidades.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\log4net.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.csprojResolveAssemblyReference.cache
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.Querys.resources
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.csproj.GenerateResource.Cache
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\Fintech\Documents\FinTech_Creditos\FinTech_Creditos\FinTech_Credito\BaseDatos\obj\Debug\BaseDatos.pdb
